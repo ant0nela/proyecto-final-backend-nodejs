@@ -1,0 +1,20 @@
+{
+  "name": "proyecto-final-backend-nodejs",
+  "version": "1.0.0",
+  "description": "Este repositorio se creo para subir el proyecto final del curso de \"Backend Node.js\" que ofrece Talento Tech del gobierno de Buenos Aires.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonela-testa/proyecto-final-backend-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonela-testa/proyecto-final-backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/antonela-testa/proyecto-final-backend-nodejs#readme"
+}
